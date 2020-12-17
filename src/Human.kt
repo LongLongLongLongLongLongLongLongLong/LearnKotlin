@@ -1,6 +1,6 @@
 /**
- * @author gaoshenggang
  * @date 2020-12-17
  */
-class Human {
+abstract class Human {
+    abstract fun eat()
 }
